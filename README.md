@@ -11,6 +11,10 @@ Projeto desenvolvido durante a disciplina de Algoritimos II na Universidade Fede
   <a href="#-layout">Layout</a>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img alt="Vehicle Manager" src="vehicle_m.png" width="100%">
+</p>
+
 <br>
 
 

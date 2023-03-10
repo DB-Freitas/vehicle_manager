@@ -34,6 +34,9 @@ int main(int argc, char** argv) {
     
     while (op != 0){
        
+        
+        cout << "#####VEHICLE MANAGER#####" << endl;
+        cout << endl;
         cout << endl;
         cout << "_____MENU_____" << endl << endl;
         cout << "1 - Relatorio da lista principal." << endl;
@@ -42,7 +45,8 @@ int main(int argc, char** argv) {
         cout << "4 - Construir arvore binaria de busca." << endl;
         cout << "5 - Construir arvore AVL." << endl;
         cout << "6 - Imprimir em pre-ordem." << endl;
-        cout << "0 - Sair." << endl;    
+        cout << "0 - Sair." << endl; 
+        cout << "->";
         cin >> op;
         cout << endl;
         
